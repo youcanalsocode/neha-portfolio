@@ -47,7 +47,6 @@ export default function Contact() {
             <li>LinkedIn: <a className="text-accent underline" href={profile.linkedin} target="_blank" rel="noopener noreferrer">neha-n-gupta</a></li>
             <li>GitHub: <a className="text-accent underline" href={profile.github} target="_blank" rel="noopener noreferrer">youcanalsocode</a></li>
             <li>Availability: Serving notice period</li>
-            <li>Relocation preference: Open to Relocation to Dubai,  (visa sponsorship preferred)</li>
           </ul>
           <a href={profile.resume} download className="btn btn-primary mt-6">Download Resume</a>
         </div>
