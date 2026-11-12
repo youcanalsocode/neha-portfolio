@@ -10,7 +10,7 @@ export const profile = {
   github: "https://github.com/youcanalsocode",
   resume: "/resume/Neha_Gupta_FullStack_Developer.pdf",
   photo: "/images/neha.jpg",
-  availability: "Serving Notice Period · Open to Relocation, UAE",
+  availability: "Serving Notice Period · Open to Relocation, ",
 };
 
 export const nav = [

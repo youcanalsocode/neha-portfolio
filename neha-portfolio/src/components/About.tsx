@@ -7,7 +7,7 @@ export default function About() {
         <div className="space-y-4 text-mute">
           <p>I am a Full Stack Software Engineer experienced in requirement analysis, system architecture, application development, and web performance optimization. My work spans modern frontend engineering, backend API development, database optimization, enterprise application security, and AI-enabled analytics.</p>
           <p>I enjoy solving complex engineering problems, improving existing systems, and building intuitive applications that deliver measurable business value. I have worked with cross-functional teams, collaborated with UX/UI designers, contributed to code reviews, and mentored junior developers.</p>
-          <p>I am currently serving my notice period and am open to relocating to Dubai, UAE, for the right opportunity.</p>
+          <p>I am currently serving my notice period and am open to relocating to Dubai, , for the right opportunity.</p>
         </div>
         <div className="card">
           <h3 className="text-lg font-bold">What I bring</h3>
