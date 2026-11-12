@@ -4,7 +4,7 @@
 export const profile = {
   name: "Neha Nadlal Gupta",
   role: "Full Stack Software Engineer",
-  email: "nehagupta1210@gmail.com",
+  email: "nehagpt12100@gmail.com",
   phone: "+91 8369108352",
   linkedin: "https://www.linkedin.com/in/neha-n-gupta",
   github: "https://github.com/youcanalsocode",
