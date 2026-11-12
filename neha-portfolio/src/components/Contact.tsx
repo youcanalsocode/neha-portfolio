@@ -40,7 +40,7 @@ export default function Contact() {
     <Section id="contact" title="Let’s Build Something Impactful.">
       <div className="grid gap-10 md:grid-cols-2">
         <div>
-          <p className="text-mute">Interested in discussing full-stack engineering opportunities, enterprise application development, or AI-powered products? I’m currently serving my notice period and open to relocation to Dubai, UAE.</p>
+          <p className="text-mute">Interested in discussing full-stack engineering opportunities, enterprise application development, or AI-powered products? I’m currently serving my notice period and open to relocation, UAE.</p>
           <ul className="mt-6 space-y-3">
             <li>Email: <a className="text-accent underline" href={`mailto:${profile.email}`}>{profile.email}</a></li>
             <li>Phone: <a className="text-accent underline" href={`tel:${profile.phone.replace(/\s/g, "")}`}>{profile.phone}</a></li>

@@ -8,7 +8,7 @@ export const profile = {
   github: "https://github.com/youcanalsocode",
   resume: "/resume/Neha_Nadlal_Gupta_Resume.pdf",
   photo: "/images/neha.jpg",
-  availability: "Serving Notice Period · Open to Relocation to Dubai, UAE",
+  availability: "Serving Notice Period · Open to Relocation, UAE",
 };
 
 export const nav = ["Home", "About", "Skills", "Experience", "Projects", "Services", "Education", "Contact"];
